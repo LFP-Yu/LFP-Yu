@@ -11,13 +11,13 @@ My preferred languages
 
 ## Repositories
 There are here currently four repositories:
-- First Capstone
+- [First Capstone](https://github.com/LFP-Yu/firstCapstone)
   - Financial calculator written in Python
-- Final Capstone
+- [Final Capstone](https://github.com/LFP-Yu/finalCapstone)
   - Sentiment analysis on Amazon Customer Reviews using spaCy language model
 - [Simple Programs](https://github.com/LFP-Yu/simple-programs)
   - Program exercises in Python
-- Library
+- [Library](https://github.com/LFP-Yu/library)
   - A library system in Python with SQLite as the database server
 
 More is on the way ...
