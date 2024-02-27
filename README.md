@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## About me
+
+Hi, I'm Peter.
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| SQL       |
+|     3| C#        |
+
 <!--
 **LFP-Yu/LFP-Yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
