@@ -1,8 +1,8 @@
-### Hi there 👋
+# Greetings 
+Hi, I'm Peter 👋
 
 ## About me
-
-Hi, I'm Peter.
+I am aspired to be a data scientist. I like working on datasets to explore hidden messages.
 
 | Rank | Languages |
 |-----:|-----------|
