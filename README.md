@@ -15,7 +15,7 @@ There are here currently four repositories:
   - Financial calculator written in Python
 - Final Capstone
   - Sentiment analysis on Amazon Customer Reviews using spaCy language model
-- Simple Programs
+- [Simple Programs](https://github.com/LFP-Yu/simple-programs)
   - Program exercises in Python
 - Library
   - A library system in Python with SQLite as the database server
